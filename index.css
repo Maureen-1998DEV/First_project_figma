@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://media.istockphoto.com/photos/assortment-of-colorful-ripe-tropical-fruits-top-view-picture-id995518546?k=6&m=995518546&s=612x612&w=0&h=jUqcvzOQ4onSN5D_Dd8RJFReuO87-0WpB9RXgeju_Kg=) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#nav{
+    background-color: grey;
+    
+}
+#nav p{
+    margin-left: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between; 
+    margin-right: 10px;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    padding-left: 120px;
+}
+#about{
+text-align: center;
+}
+#product{
+    display: flex;
+
+}
+#product div{
+    padding: 10px 20px 10px 20px;
+   margin: 0 5px 0 5px; 
+   font-family: sans-serif;
+}
+#product>div{
+    background-color: #c3c3c3;
+        opacity:0.9;
+    
+}
+footer{
+    background-color: blueviolet;
+    height: 20px;
+
+}
+
+    
